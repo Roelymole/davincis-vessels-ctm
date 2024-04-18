@@ -1,0 +1,9 @@
+{
+    "ctm": {
+        "ctm_version": 1,
+        "type": "ctm",
+        "textures": [
+            "davincisvessels:blocks/balloon_pink_ctm"
+        ]
+    }
+}
